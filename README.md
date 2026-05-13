@@ -10,4 +10,5 @@
 ## Credits
 
 OCR library created by [Descolada](https://github.com/Descolada/OCR/)
+
 AHKv2 created by [Lexikos](https://github.com/autohotkey/autohotkey)
